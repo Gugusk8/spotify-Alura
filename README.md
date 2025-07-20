@@ -11,10 +11,6 @@ O objetivo foi replicar a interface do Spotify para treinar habilidades em:
 - Layouts flexíveis usando **Flexbox**
 - Design responsivo para diferentes tamanhos de tela
 
-## 📸 Preview
-
-![preview](preview-da-interface.png) <!-- Substitua pelo nome da imagem real, se houver -->
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5  
@@ -24,3 +20,8 @@ O objetivo foi replicar a interface do Spotify para treinar habilidades em:
 
 ## 📁 Estrutura do Projeto
 
+📦spotify-Alura
+┣ 📂assets/
+┃ ┗ imagens e ícones do projeto
+┣ 📜index.html
+┗ 📜style.css
